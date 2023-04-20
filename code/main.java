@@ -4,8 +4,6 @@ public class main{
     public static void main(String[] args){
         System.out.println("hello");
         int abc=123;
-
-        int xyz=456;
         
         System.out.println("Changing this line from my side");
         
@@ -16,6 +14,7 @@ public class main{
         bs.searchEle=1;
         System.out.println("Finding serach ele b/w 0 and 10");
         System.out.println(bs.binaryserachfn(0, 10));
+        int dbc=19;
     }
 }
 
@@ -36,7 +35,7 @@ class binarySearch{
             System.out.println("calling with mid+1");
             return binaryserachfn(mid+1, high);
         }
-
+        
       
     }
 }
