@@ -7,7 +7,6 @@ public class main{
         int abc=123;
         String car= "Lambo";
         String house="Villa";
-        
     }
 }
 
