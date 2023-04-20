@@ -7,6 +7,7 @@ public class main{
         String car= "Lambo";
         String house="Villa";
         String name="Aftab";
+        String job="SDE";
     }
       
 }
