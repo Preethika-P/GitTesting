@@ -28,12 +28,13 @@ class binarySearch{
         }
         if(searchEle <mid)
         {   
-            System.out.println("Calling with mid--1");
+            System.out.println("Calling with mid-1");
             return binaryserachfn(low, mid-1);
         }else{
             System.out.println("calling with mid+1");
             return binaryserachfn(mid+1, high);
         }
+        
       
     }
 }
