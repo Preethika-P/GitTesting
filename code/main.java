@@ -6,5 +6,9 @@ public class main{
         int abc=123;
         
         System.out.println("Changing this line from my side");
+        
+        for(int i=0; i<abc; i++){
+            System.out.println(abc);
+        }
     }
 }
