@@ -2,6 +2,7 @@ package code;
 
 public class main{
     public static void main(String[] args){
+<<<<<<< HEAD
         System.out.println("hello");
         int abc=123;
         String car= "Lambo";
@@ -38,5 +39,8 @@ class binarySearch{
         }
         
       
+=======
+        System.out.println("empyt file");
+>>>>>>> 27242dca1764e6e6275e5d10d919cacd623bc6b6
     }
 }
